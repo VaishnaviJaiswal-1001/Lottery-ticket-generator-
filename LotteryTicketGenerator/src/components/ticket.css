@@ -1,0 +1,7 @@
+.ticketBox{
+    border: 2px, solid pink;
+    border-radius: 14px;
+    padding: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
